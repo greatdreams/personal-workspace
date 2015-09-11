@@ -35,5 +35,10 @@
     <definition name="tutorials/programming/spring/aop" extends="template">
         <put-attribute name='title' value="springframework aop tutorials" />
         <put-attribute name='body' value='/WEB-INF/views/templates/tutorials/programming/springframework/aop.jsp' />
+        
+    </definition>	
+        <definition name="tutorials/programming/spring/batch" extends="template">
+        <put-attribute name='title' value="springframework batch tutorials" />
+        <put-attribute name='body' value='/WEB-INF/views/templates/tutorials/programming/springframework/batch.jsp' />
     </definition>	
 </tiles-definitions>

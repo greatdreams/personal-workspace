@@ -18,6 +18,8 @@ a<%--
     <br/>
     <a href='/personal-workspace/tutorials/programming/spring/aop.tiles'>aspects-oriented programming</a>
     <br/>
+    <a href="/personal-workspace/tutorials/programming/spring/batch.tiles">spring batch project</a>
+    <br/>
     <div class="panel panel-info">
         <div class="panel-heading">
             Spring Framework Artifacts

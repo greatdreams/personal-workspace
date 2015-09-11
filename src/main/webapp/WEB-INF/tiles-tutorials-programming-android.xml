@@ -5,15 +5,12 @@
        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
 
 <tiles-definitions>
-	<definition name="template" template="/WEB-INF/views/templates/template.jsp">
-		<put-attribute name="title" value="Tiles tutorial homepage" />
-		<put-attribute name='header'
-			value="/WEB-INF/views/templates/header.jsp" />
-		<put-attribute name="navigation" value="/WEB-INF/views/templates/navigation.jsp"/>
-		<put-attribute name="body" value="" />
-	</definition>
 	<definition name="tutorials/programming/android/index" extends="template">
 		<put-attribute name='title' value="android tutorials" />
 		<put-attribute name='body' value='/WEB-INF/views/templates/tutorials/programming/android/index.jsp' />
+	</definition>
+        	<definition name="tutorials/programming/android/apk-file-format" extends="template">
+		<put-attribute name='title' value="android tutorials" />
+		<put-attribute name='body' value='/WEB-INF/views/templates/tutorials/programming/android/apk-file-format.jsp' />
 	</definition>
 </tiles-definitions>

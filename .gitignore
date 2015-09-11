@@ -1,3 +1,9 @@
+nb-configuration.xml
+*.ipr
+*.iml
+*.iws
+target/
+
 *.class
 
 # Mobile Tools for Java (J2ME)

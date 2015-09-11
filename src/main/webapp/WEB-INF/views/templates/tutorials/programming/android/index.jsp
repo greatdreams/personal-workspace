@@ -14,6 +14,9 @@
 
 <div class="container">
     <h3>Content</h3>
+    <p>
+        <a href='/personal-workspace/tutorials/programming/android/apk-file-format.tiles'>apk file format brief description</a>
+    </p>
     <h3>Android Application Overview</h3>
     <p>
         An Android application is defined using one or more of Android's four core application components. <a>Activity</a>, <a>Service</a>, <a>BroadcastReceiver</a> and <a>ContentProvider</a>.
