@@ -2,6 +2,7 @@ nb-configuration.xml
 *.ipr
 *.iml
 *.iws
+.settings 
 target/
 
 *.class
