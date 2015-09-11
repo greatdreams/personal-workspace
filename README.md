@@ -1,2 +1,3 @@
 # personal-workspace
-this is my repository for my personal workspace
+
+This is my repository for my personal workspace. 
